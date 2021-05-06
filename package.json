@@ -19,7 +19,7 @@
     "react-router-dom": "^5.0.1",
     "teamcity": "^0.0.7",
     "turbolinks": "^5.2.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "version": "0.1.0",
   "devDependencies": {
